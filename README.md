@@ -7,9 +7,9 @@ M5Avatar for UIFlow Custom Block
 - UIFlowの"Custom"→"Open *.m5b file"から、”M5StackAvatar.m5b"を読み込む
 - "Custom Block"内に現れる"M5StackAvatar"ブロックでプログラムを組む。"M5Avatar_test.m5f"が使用例。
 
-<img src="https://github.com/akita11/M5StackAvatr_UIFlow/blob/main/blocks.png" width="240px">
+<img src="https://github.com/akita11/M5StackAvatar_UIFlow/blob/main/blocks.png" width="240px">
 
-<img src="https://github.com/akita11/M5StackAvatr_UIFlow/blob/main/M5Avatar_test.png" width="240px">
+<img src="https://github.com/akita11/M5StackAvatar_UIFlow/blob/main/M5Avatar_test.png" width="240px">
 
 # Author
 Junichi Akita (@akita11, akita@ifdl.jp)
