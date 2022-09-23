@@ -11,5 +11,14 @@ M5Avatar for UIFlow Custom Block
 
 <img src="https://github.com/akita11/M5Avatar_UIFlow/blob/main/M5Avatar_test.png" width="240px">
 
+# Functions
+
+現在実装済みの機能：
+
+- まばたき、口が上下に動く
+- exclamation（びっくりした表情）
+- pale（どよよんの表情）
+- 口を動かしながらセリフを表示
+
 # Author
 Junichi Akita (@akita11, akita@ifdl.jp)
