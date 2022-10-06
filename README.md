@@ -1,7 +1,7 @@
 # M5Avatar_UIFlow
 
 ---
-akita11さんのM5Avatar_UIFlowをUIFlow V1.10.6対応にしました。<br>
+akita11さんのM5Avatar_UIFlowをM5Stack BASIC版 UIFlow V1.10.6対応にしました。<br>
 オリジナルはこちらです。<br>
 <https://github.com/akita11/M5Avatar_UIFlow><br>
 <br>
