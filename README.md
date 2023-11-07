@@ -1,4 +1,14 @@
 # M5Avatar_UIFlow
+
+---
+akita11さんのM5Avatar_UIFlowをM5Stack BASIC版 UIFlow V1.10.6対応にしました。<br>
+オリジナルはこちらです。<br>
+<https://github.com/akita11/M5Avatar_UIFlow><br>
+<br>
+
+---
+
+
 M5Avatar for UIFlow Custom Block
 [M5StackAvatar](https://github.com/meganetaaan/m5stack-avatar/)に相当するものを、UIFlowで使えるカスタムBlockで作ろうという試み。[M5StackAvatarPython](https://github.com/h-akanuma/M5StackAvatarPython)をベースに現行UIFlow内Python向けに改変。
 
